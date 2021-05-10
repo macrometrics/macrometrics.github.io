@@ -292,4 +292,5 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
-
+$fa-font-path: "fonts/font-awesome/";
+@import 'font-awesome';
